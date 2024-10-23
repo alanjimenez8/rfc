@@ -1,0 +1,7 @@
+C:\Users\CC2_PC43\sharp\w\w\obj\Debug\w.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC43\sharp\w\w\obj\Debug\w.MainForm.resources
+C:\Users\CC2_PC43\sharp\w\w\obj\Debug\w.csproj.GenerateResource.Cache
+C:\Users\CC2_PC43\sharp\w\w\bin\Debug\w.exe
+C:\Users\CC2_PC43\sharp\w\w\bin\Debug\w.pdb
+C:\Users\CC2_PC43\sharp\w\w\obj\Debug\w.exe
+C:\Users\CC2_PC43\sharp\w\w\obj\Debug\w.pdb
